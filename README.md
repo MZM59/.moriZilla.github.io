@@ -1,1 +1,1 @@
-# mozilla.github.io
+# mozilla
